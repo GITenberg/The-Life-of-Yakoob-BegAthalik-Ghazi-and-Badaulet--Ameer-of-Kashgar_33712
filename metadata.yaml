@@ -1,0 +1,29 @@
+_repo: The-Life-of-Yakoob-BegAthalik-Ghazi-and-Badaulet--Ameer-of-Kashgar_33712
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boulger, Demetrius Charles
+    birthdate: 1853
+    deathdate: 1928
+    gutenberg_agent_id: '2169'
+    url: http://www.gutenberg.org/2009/agents/2169
+description: ''
+gutenberg_issued: '2010-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33712'
+  lccn: '25014580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Xinjiang Uygur Zizhiqu (China) -- History'
+- !lcsh 'Yâkúb Beg, khan of Kashgar, 1820-1877'
+- !lcc 'DS'
+- !lcsh 'Eastern question (Central Asia)'
+title: The Life of Yakoob Beg; Athalik Ghazi, and Badaulet; Ameer of Kashgar
+url: http://www.gutenberg.org/ebooks/33712
